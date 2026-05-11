@@ -62971,7 +62971,7 @@
 		(name "")
 		(pos 16 30)
 		(font
-			(face "Arial")
+			(face "KiCad Font")
 			(color 0 0 0 1)
 		)
 		(justify center)
