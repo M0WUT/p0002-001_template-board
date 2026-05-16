@@ -632,7 +632,7 @@
         "uuid": "acdb93e6-9aa6-4a78-8a68-9d0ae3318f45"
       }
     ],
-    "used_designators": "H1-5,#PWR1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -648,8 +648,8 @@
     "WUT_GITHUB_PAGES_URL": "m0wut.github.com/p0002-001_template-board",
     "WUT_GITHUB_URL": "https://github.com/M0WUT/p0002-001_template-board",
     "WUT_GIT_COMMIT_DATE": "",
-    "WUT_GIT_COMMIT_TIME": "",
     "WUT_GIT_COMMIT_TAG": "",
+    "WUT_GIT_COMMIT_TIME": "",
     "WUT_GIT_VERSION": "",
     "WUT_LAYOUT_VERSION": "1",
     "WUT_PROJECT_NAME": "Template Kicad Project",

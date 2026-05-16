@@ -562,7 +562,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "193fc88e-4ea0-423a-bb32-77fbd82026ba")
+			(uuid "193fc88e-4ea0-423a-bb32-77fbd82026bb")
 		)
 		(instances
 			(project "p0002-001_template-board"
@@ -641,7 +641,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "193fc88e-4ea0-423a-bb32-77fbd82026ba")
+			(uuid "193fc88e-4ea0-423a-bb32-77fbd82026bc")
 		)
 		(instances
 			(project "p0002-001_template-board"
@@ -873,7 +873,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "193fc88e-4ea0-423a-bb32-77fbd82026ba")
+			(uuid "193fc88e-4ea0-423a-bb32-77fbd82026bd")
 		)
 		(instances
 			(project "p0002-001_template-board"
